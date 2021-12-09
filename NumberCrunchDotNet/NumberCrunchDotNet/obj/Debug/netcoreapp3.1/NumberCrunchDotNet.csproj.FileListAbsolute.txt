@@ -1,0 +1,13 @@
+C:\EDU\NumberCrunchDotNet\NumberCrunchDotNet\obj\Debug\netcoreapp3.1\NumberCrunchDotNet.csproj.AssemblyReference.cache
+C:\EDU\NumberCrunchDotNet\NumberCrunchDotNet\obj\Debug\netcoreapp3.1\NumberCrunchDotNet.AssemblyInfoInputs.cache
+C:\EDU\NumberCrunchDotNet\NumberCrunchDotNet\obj\Debug\netcoreapp3.1\NumberCrunchDotNet.AssemblyInfo.cs
+C:\EDU\NumberCrunchDotNet\NumberCrunchDotNet\obj\Debug\netcoreapp3.1\NumberCrunchDotNet.csproj.CoreCompileInputs.cache
+C:\EDU\NumberCrunchDotNet\NumberCrunchDotNet\bin\Debug\netcoreapp3.1\NumberCrunchDotNet.exe
+C:\EDU\NumberCrunchDotNet\NumberCrunchDotNet\bin\Debug\netcoreapp3.1\NumberCrunchDotNet.deps.json
+C:\EDU\NumberCrunchDotNet\NumberCrunchDotNet\bin\Debug\netcoreapp3.1\NumberCrunchDotNet.runtimeconfig.json
+C:\EDU\NumberCrunchDotNet\NumberCrunchDotNet\bin\Debug\netcoreapp3.1\NumberCrunchDotNet.runtimeconfig.dev.json
+C:\EDU\NumberCrunchDotNet\NumberCrunchDotNet\bin\Debug\netcoreapp3.1\NumberCrunchDotNet.dll
+C:\EDU\NumberCrunchDotNet\NumberCrunchDotNet\bin\Debug\netcoreapp3.1\NumberCrunchDotNet.pdb
+C:\EDU\NumberCrunchDotNet\NumberCrunchDotNet\obj\Debug\netcoreapp3.1\NumberCrunchDotNet.dll
+C:\EDU\NumberCrunchDotNet\NumberCrunchDotNet\obj\Debug\netcoreapp3.1\NumberCrunchDotNet.pdb
+C:\EDU\NumberCrunchDotNet\NumberCrunchDotNet\obj\Debug\netcoreapp3.1\NumberCrunchDotNet.genruntimeconfig.cache

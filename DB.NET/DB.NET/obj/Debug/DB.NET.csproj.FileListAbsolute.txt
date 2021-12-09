@@ -1,0 +1,9 @@
+C:\EDU\DB.NET\DB.NET\bin\Debug\DB.NET.exe.config
+C:\EDU\DB.NET\DB.NET\bin\Debug\DB.NET.exe
+C:\EDU\DB.NET\DB.NET\bin\Debug\DB.NET.pdb
+C:\EDU\DB.NET\DB.NET\obj\Debug\DB.NET.csproj.AssemblyReference.cache
+C:\EDU\DB.NET\DB.NET\obj\Debug\DB.NET.Properties.Resources.resources
+C:\EDU\DB.NET\DB.NET\obj\Debug\DB.NET.csproj.GenerateResource.cache
+C:\EDU\DB.NET\DB.NET\obj\Debug\DB.NET.csproj.CoreCompileInputs.cache
+C:\EDU\DB.NET\DB.NET\obj\Debug\DB.NET.exe
+C:\EDU\DB.NET\DB.NET\obj\Debug\DB.NET.pdb

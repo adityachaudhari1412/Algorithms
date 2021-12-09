@@ -1,0 +1,13 @@
+C:\EDU\RecursiveAlgos\RecursiveAlgos\bin\Debug\netcoreapp3.1\RecursiveAlgos.exe
+C:\EDU\RecursiveAlgos\RecursiveAlgos\bin\Debug\netcoreapp3.1\RecursiveAlgos.deps.json
+C:\EDU\RecursiveAlgos\RecursiveAlgos\bin\Debug\netcoreapp3.1\RecursiveAlgos.runtimeconfig.json
+C:\EDU\RecursiveAlgos\RecursiveAlgos\bin\Debug\netcoreapp3.1\RecursiveAlgos.runtimeconfig.dev.json
+C:\EDU\RecursiveAlgos\RecursiveAlgos\bin\Debug\netcoreapp3.1\RecursiveAlgos.dll
+C:\EDU\RecursiveAlgos\RecursiveAlgos\bin\Debug\netcoreapp3.1\RecursiveAlgos.pdb
+C:\EDU\RecursiveAlgos\RecursiveAlgos\obj\Debug\netcoreapp3.1\RecursiveAlgos.csproj.AssemblyReference.cache
+C:\EDU\RecursiveAlgos\RecursiveAlgos\obj\Debug\netcoreapp3.1\RecursiveAlgos.AssemblyInfoInputs.cache
+C:\EDU\RecursiveAlgos\RecursiveAlgos\obj\Debug\netcoreapp3.1\RecursiveAlgos.AssemblyInfo.cs
+C:\EDU\RecursiveAlgos\RecursiveAlgos\obj\Debug\netcoreapp3.1\RecursiveAlgos.csproj.CoreCompileInputs.cache
+C:\EDU\RecursiveAlgos\RecursiveAlgos\obj\Debug\netcoreapp3.1\RecursiveAlgos.dll
+C:\EDU\RecursiveAlgos\RecursiveAlgos\obj\Debug\netcoreapp3.1\RecursiveAlgos.pdb
+C:\EDU\RecursiveAlgos\RecursiveAlgos\obj\Debug\netcoreapp3.1\RecursiveAlgos.genruntimeconfig.cache

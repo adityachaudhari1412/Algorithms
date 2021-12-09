@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NumberCrunchDotNet/1.0.0": {
+        "runtime": {
+          "NumberCrunchDotNet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NumberCrunchDotNet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
